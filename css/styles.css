@@ -1,0 +1,9 @@
+.hidden {
+  display: none;
+}
+
+body {
+  color: rgb(90, 90, 90);
+  background-color: black;
+  text-align: center;
+}
